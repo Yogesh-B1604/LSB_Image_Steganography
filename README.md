@@ -116,3 +116,13 @@ This project demonstrates:
 - Understanding of file systems and memory
 - Implementation of data hiding techniques
 - Strong grasp of low-level programming in C
+
+## 📸 Demo
+
+### Original Image
+![Original](beautiful.bmp)
+
+### Stego Image
+![Stego](stego.bmp)
+
+### Output

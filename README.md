@@ -48,24 +48,21 @@ The system supports both:
 
 ---
 
-## 🗂️ Project Structure
+## 📁 Project Structure
 
-.
-├── src
-│   ├── encode.c
-│   ├── decode.c
-│   └── main.c
-├── include
-│   ├── encode.h
-│   ├── decode.h
-│   ├── types.h
-│   └── common.h
-├── test
-│   ├── secret.txt
-│   ├── beautiful.bmp
-│   ├── stego.bmp
-│   └── output.txt
-└── README.md
+```text
+|-- encode.c
+|-- decode.c
+|-- main.c
+|-- encode.h
+|-- decode.h
+|-- types.h
+|-- common.h
+|-- secret.txt
+|-- beautiful.bmp
+|-- stego.bmp
+|-- output.txt
+```
 
 ## ▶️ Usage
 

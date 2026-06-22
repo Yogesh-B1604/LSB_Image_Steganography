@@ -116,8 +116,3 @@ This project demonstrates:
 - Understanding of file systems and memory
 - Implementation of data hiding techniques
 - Strong grasp of low-level programming in C
-
-## 👨‍💻 Author
-
-Yogesh B  
-ECE Graduate | Embedded Systems Enthusiast

@@ -119,10 +119,10 @@ This project demonstrates:
 
 ## 📸 Demo
 
-### Original Image [Input]
+### Original Image 
 ![Original](beautiful.bmp)
 
-### Stego Image [Output]
+### Stego Image
 ![Stego](stego.bmp)
 
 
